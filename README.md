@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-tj&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-tj" /> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/akhil-tj/Anton_1.0)
+- 🔭 I’m currently working on [Totalizer](https://github.com/akhil-tj/Totalizer)
 
 - 🌱 I’m currently learning **Flutter & Native Android**
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [akhiltj.codes](akhiltj.codes)
+- 👨‍💻 All of my projects are available at [github.com/akhil-tj](https://github.com/akhil-tj)
 
 - 📫 How to reach me **akhiltj.dev@gmail.com**
 
