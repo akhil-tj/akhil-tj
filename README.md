@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Akhil T J</h1>
-<h3 align="center">Flutter Enthusiast | UI/UX Designer | Figma | Open to Learning 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-tj&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-tj" /> </p>
 
